@@ -14,9 +14,9 @@ The listening can be toggled by the user. By toggling, the cooldown will end.
 
 This is a Fabric Mod.
 
-<h3 align = right>Requirements:</h3>
+<h3 align = center>Requirements:</h3>
 
-<div align = right>
+<div>
     
 Fabric Loader: **≥ 0.15.0**
     
