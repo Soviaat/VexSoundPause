@@ -1,4 +1,4 @@
-# VexSoundPause
+<h1 align = center>VexSoundPause</h1> 
 <div align = center>
     
    [![Button Icon]][Link]
