@@ -1,6 +1,6 @@
 <div align = center>
   # VexSoundPause
-  [<kbd> <br> [DOWNLOAD HERE](https://github.com/Soviaat/VexSoundPause/releases) <br> </kbd>][KBD]
+  [<kbd> <br> DOWNLOAD HERE <br> </kbd>](https://github.com/Soviaat/VexSoundPause/releases)
 
 </div>
 
