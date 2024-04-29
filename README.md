@@ -25,7 +25,7 @@ Fabric API: **≥ 0.91.0+1.20.1**
 </div>
 <br>
 
-#### Thank you for Kendiii2 for contributing with ideas. 
+#### Thank you Kendiii2 for contributing with ideas. 
 
 <!---------------------------------------------------------------------------->
 
