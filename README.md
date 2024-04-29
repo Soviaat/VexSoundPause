@@ -18,9 +18,9 @@ This is a Fabric Mod.
 
 <div align = center>
     
-    Fabric Loader: **≥ 0.15.0**
+Fabric Loader: **≥ 0.15.0**
     
-    Fabric API: **≥ 0.91.0+1.20.1**
+Fabric API: **≥ 0.91.0+1.20.1**
     
 </div>
 
