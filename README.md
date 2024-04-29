@@ -2,7 +2,7 @@
   # VexSoundPause
   
    [<kbd> <br> DOWNLOAD HERE <br> </kbd>](https://github.com/Soviaat/VexSoundPause/releases)
-   [![Download Here]]
+   [![Download Here]][Shield]
 
 </div>
 
@@ -14,3 +14,8 @@ If a Vex makes a sound, the mod will open the Advancements Screen and this basic
 The listening can be toggled by the user. By toggling, the cooldown will end. 
 
 #### Thank you for Kendiii2 for contributing with ideas. 
+
+<!---------------------------------------------------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Shield]: Types/Shield.md
