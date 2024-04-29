@@ -1,9 +1,6 @@
 <div align = center>
-  # VexSoundPause
-  
-   [<kbd> <br> DOWNLOAD HERE <br> </kbd>](https://github.com/Soviaat/VexSoundPause/releases)
-   
-   [![Button Icon]][Shield]
+    # VexSoundPause
+   [![Button Icon]][Link]
 
 </div>
 
@@ -20,3 +17,4 @@ The listening can be toggled by the user. By toggling, the cooldown will end.
 
 [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [Shield]: Types/Shield.md
+[Link]: https://github.com/Soviaat/VexSoundPause/releases
