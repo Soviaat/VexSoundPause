@@ -2,7 +2,8 @@
   # VexSoundPause
   
    [<kbd> <br> DOWNLOAD HERE <br> </kbd>](https://github.com/Soviaat/VexSoundPause/releases)
-   [![Download Here]][Shield]
+   
+   [![Button Shield]][Shield]
 
 </div>
 
