@@ -16,7 +16,7 @@ This is a Fabric Mod.
 
 <h3 align = center>Requirements:</h3>
 
-<ul>
+<ul align = center>
     <li>Fabric Loader: **≥ 0.15.0**</li>
     <li>Fabric API: **≥ 0.91.0+1.20.1**</li>
 </ul>
