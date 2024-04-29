@@ -12,6 +12,15 @@ If a Vex makes a sound, the mod will open the Advancements Screen and this basic
 
 The listening can be toggled by the user. By toggling, the cooldown will end. 
 
+This is a Fabric Mod.
+
+<h3 align = center>Requirements:</h3>
+
+<ul>
+    <li>Fabric Loader: **≥ 0.15.0**</li>
+    <li>Fabric API: **≥ 0.91.0+1.20.1**</li>
+</ul>
+
 #### Thank you for Kendiii2 for contributing with ideas. 
 
 <!---------------------------------------------------------------------------->
