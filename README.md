@@ -16,10 +16,10 @@ This is a Fabric Mod.
 
 <h3 align = center>Requirements:</h3>
 
-<ul align = center>
-    <li>Fabric Loader: **≥ 0.15.0**</li>
-    <li>Fabric API: **≥ 0.91.0+1.20.1**</li>
-</ul>
+<div align = center>
+    Fabric Loader: **≥ 0.15.0**
+    Fabric API: **≥ 0.91.0+1.20.1**
+</div>
 
 #### Thank you for Kendiii2 for contributing with ideas. 
 
