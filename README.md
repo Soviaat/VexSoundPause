@@ -1,6 +1,6 @@
 # VexSoundPause
 
-### [DOWNLOAD HERE](https://github.com/Soviaat/VexSoundPause/releases)
+<a href="https://github.com/Soviaat/VexSoundPause/releases" class="button">DOWNLOAD HERE</a>
 
 This is a mod for one thing. Stacking raid farms. There is a small chance for Vexes to spawn, if the user is AFK at the raid farm, it could be fatal for players.
 So this mod is basically listening for Vex sounds. Mainly ambient sounds because that's the first sound the make when they get summoned.
