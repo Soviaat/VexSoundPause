@@ -31,4 +31,4 @@ Fabric API: **≥ 0.91.0+1.20.1**
 
 [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [Shield]: Types/Shield.md
-[Link]: /Soviaat/VexSoundPause/releases/latest/
+[Link]: https://github.com/Soviaat/VexSoundPause/releases/latest
